@@ -17,9 +17,9 @@ Please email completed list or bring to your first appointment.
 * Photo of Driver’s License 
 * Photo of Insurance Cards 
 * EAP authorization number (If using)
-* Intake Paper Work
+- [ ] Intake Paper Work
 ￼
-* ROI (If needed)
+- [ ] ROI (If needed)
 ￼
 
 You can use the [editor on GitHub](https://github.com/DCItd/IntakeDCI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
