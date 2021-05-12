@@ -12,9 +12,10 @@ Fax: ‭(208) 202-2769‬
 * Photo of Insurance Cards 
 
 * [Intake paperwork!](http://google.com)
-* [ROI!](http://google.com) (If needed)
-
-* EAP authorization number (If using)
+* [ROI!](http://google.com) 
+*  (If you would like to release infomation.)
+* EAP authorization number 
+*  (If you have an employee assistance program you are going through.)
 
 ￼
 
