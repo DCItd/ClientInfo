@@ -1,5 +1,24 @@
 ## Welcome to Dean Counseling Inc.
 
+Dean Counseling Inc.
+1337 E 17th St
+Idaho Falls ID 83404
+Phone: (208) 680-6488
+Fax: ‭(208) 202-2769‬
+￼
+(In Landmark Mental Health)
+
+Please email completed list or bring to your first appointment.
+
+* Date of Birth (DOB)
+* Photo of Driver’s License 
+* Photo of Insurance Cards 
+* EAP authorization number (If using)
+* Intake Paper Work
+￼
+* ROI (If needed)
+￼
+
 You can use the [editor on GitHub](https://github.com/DCItd/IntakeDCI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
