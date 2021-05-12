@@ -1,9 +1,4 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-# Welcome to Dean Counseling Inc.
-
-## Dean Counseling Inc.
+# Dean Counseling Inc.
 1337 E 17th St
 Idaho Falls ID 83404
 Phone: (208) 680-6488
@@ -11,15 +6,16 @@ Fax: ‭(208) 202-2769‬
 ￼
 (In Landmark Mental Health)
 
+[link to Intake!](http://google.com)
+
 Please email completed list or bring to your first appointment.
 
 * Date of Birth (DOB)
 * Photo of Driver’s License 
 * Photo of Insurance Cards 
 * EAP authorization number (If using)
-- [ ] Intake Paper Work
-￼
-- [ ] ROI (If needed)
+* [Intake paperwork!](http://google.com)
+* [ROI!](http://google.com) (If needed)
 ￼
 
 You can use the [editor on GitHub](https://github.com/DCItd/IntakeDCI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
