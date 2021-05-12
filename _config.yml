@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: [New Client Information]
 description: [Please Completed Prior To Your First Appointment.]
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
