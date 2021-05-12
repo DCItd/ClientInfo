@@ -1,4 +1,4 @@
-## Welcome to Dean Counseling Inc. GitHub Pages
+## Welcome to Dean Counseling Inc.
 
 You can use the [editor on GitHub](https://github.com/DCItd/IntakeDCI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
