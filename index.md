@@ -1,10 +1,13 @@
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 # Welcome to Dean Counseling Inc.
 
 ## Dean Counseling Inc.
-# 1337 E 17th St
-# Idaho Falls ID 83404
-# Phone: (208) 680-6488
-# Fax: ‭(208) 202-2769‬
+1337 E 17th St
+Idaho Falls ID 83404
+Phone: (208) 680-6488
+Fax: ‭(208) 202-2769‬
 ￼
 (In Landmark Mental Health)
 
