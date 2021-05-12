@@ -1,9 +1,9 @@
 theme: jekyll-theme-leap-day
 title: [New Client Information]
 description: [Please Completed Prior First Appointment.]
-show_downloads: [true]
+show_downloads: [False]
 google_analytics: [Your Google Analytics tracking ID]
 github:
   zip_url: http://example.com/download.zip
-  another_url: ROI
+  doc_url: ROI
 
