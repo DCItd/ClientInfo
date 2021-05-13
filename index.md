@@ -1,10 +1,9 @@
 ## Dean Counseling Inc.
-<dl>
-  < 1337 E 17th Street</dl>
+  < 1337 E 17th Street >
   <dl>Idaho Falls ID 83404</dl>
   <dl>Phone: (208) 680-6488</dl>
   <dl>Fax: ‭(208) 202-2769</dl>
-</dl>
+
 
 #### (In Landmark Mental Health)
 
