@@ -2,7 +2,7 @@
 
 Thank you for taking the time to Completing the intake paperwork. You can sumit the completed paper work online or bring to first session. I am looking forward to see you.
 
-## Dean Counseling Inc.
+Dean Counseling Inc.
 > 1337 E 17th Street
 > Idaho Falls ID 83404
 > Phone (208) 680-6488
