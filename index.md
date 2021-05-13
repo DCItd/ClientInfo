@@ -13,7 +13,7 @@ Fax: ‭(208) 202-2769‬
 
 * [Intake paperwork!](http://google.com)
 * [ROI!](http://google.com) 
- - (If you would like to release infomation.)
+  * (If you would like to release infomation.)
 * EAP authorization number 
  - (If you have an employee assistance program you are going through.)
 
