@@ -6,14 +6,17 @@ Thank you for taking the time to Completing the intake paperwork. You can sumit 
 >
 > 1337 E 17th Street
 > Idaho Falls ID 83404
-> Phone (208) 680-6488
-> Fax (208) 202-2769
-> (In Landmark Mental Health)
+> 
+Phone (208) 680-6488
+Fax (208) 202-2769
+(In Landmark Mental Health)
 > 
 
 ## Photos/Scans
+> 
 > Driver’s License 
-> Insurance Cards 
+> Insurance Cards
+>  
 
 - EAP authorization number
   - If useing employee assistance program
