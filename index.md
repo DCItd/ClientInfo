@@ -10,21 +10,26 @@ Phone (208) 680-6488
 Fax (208) 202-2769
 (In Landmark Mental Health)
 > 
+
 ### Photos/Scans
+
 > 
 - Driver’s License 
 - Insurance Cards
->  
+> 
+ 
 ### Forms
+
 >
 - [Intake paperwork!](http://google.com)
 - [ROI!](http://google.com) 
-  * If you want information to be release.
+  - If you want information to be release.
 >
-### EAP 
+
+### EAP Authorization Number
+
 > 
-> authorization number
-> If useing employee assistance program
+> Number is need when useing employee assistance program.
 > 
 
 
