@@ -22,7 +22,7 @@ Insurance Cards
 Authorization number is needed when useing your employee assistance program.
 > 
 
-####**Dean Counseling Inc.**   
+#### Dean Counseling Inc.   
 1337 E 17th Street   
 Idaho Falls ID 83404      
 Phone (208) 680-6488    
