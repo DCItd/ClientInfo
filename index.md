@@ -1,4 +1,12 @@
-## Dean Counseling Inc.
+``
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+# Dean Counseling Inc.
 <dl>1337 E 17th Street<dl>
 <dl>Idaho Falls ID 83404</dl>
 <dl>Phone: (208) 680-6488</dl>
