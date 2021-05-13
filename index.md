@@ -1,16 +1,17 @@
 # Welcome
 Thank you for taking the time to Completing the intake paperwork. You can sumit the completed paper work online or bring to first session. I am looking forward to see you.
+
 ### Dean Counseling Inc.
-< 1337 E 17th Street
-< Idaho Falls ID 83404
-< Phone (208) 680-6488
-< Fax (208) 202-2769
-< (In Landmark Mental Health)
+> 1337 E 17th Street
+> Idaho Falls ID 83404
+> Phone (208) 680-6488
+> Fax (208) 202-2769
+> (In Landmark Mental Health)
 
 
-Photo of:
-: Driver’s License 
-: Insurance Cards 
+Photos/Scans
+> Driver’s License 
+> Insurance Cards 
 
 - EAP authorization number
   - If useing employee assistance program
@@ -18,11 +19,6 @@ Photo of:
 * [Intake paperwork!](http://google.com)
 * [ROI!](http://google.com) 
   * If you want information to be release.
-
-
-
-
-￼
 
 You can use the [editor on GitHub](https://github.com/DCItd/IntakeDCI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
