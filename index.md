@@ -1,6 +1,6 @@
 # Welcome To Dean Counseling Inc.
 
-Thank you for taking the time to Completing the intake paperwork. You can sumit the completed paper work online or bring to first session. I am looking forward to see you.
+Thank you for taking the time to Completing the paperwork. *NOBODY* can go back and start a new **BEGINNING**, but *ANYONE* can start today and make a new **ENDING**. I am looking forward to meeting you.
 
 ### Dean Counseling Inc.
    
