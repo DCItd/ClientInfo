@@ -2,6 +2,13 @@ Dean Counseling Inc.
 : 1337 E 17th Street
 : Idaho Falls ID 83404
 
+<dl>
+  <dt>First Term</dt>
+  <dd>This is the definition of the first term.</dd>
+  <dt>Second Term</dt>
+  <dd>This is one definition of the second term. </dd>
+  <dd>This is another definition of the second term.</dd>
+</dl>
 
 : **Phone: (208) 680-6488**
 : **Fax: ‭(208) 202-2769**‬
