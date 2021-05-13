@@ -1,13 +1,13 @@
 Dean Counseling Inc.
 : 1337 E 17th Street
-: Idaho Falls ID 83404
+: 
 
 <dl>
-  <dt>First Term</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>Second Term</dt>
-  <dd>This is one definition of the second term. </dd>
-  <dd>This is another definition of the second term.</dd>
+  <dt>Dean Counseling Inc.</dt>
+  <dd> 1337 E 17th Street</dd>
+  <dd>Idaho Falls ID 83404</dd>
+  <dd>**Phone: (208) 680-6488**</dd>
+  <dd>**Fax: ‭(208) 202-2769**</dd>
 </dl>
 
 : **Phone: (208) 680-6488**
