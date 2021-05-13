@@ -1,17 +1,14 @@
-``
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
 # Dean Counseling Inc.
 <dl>1337 E 17th Street<dl>
 <dl>Idaho Falls ID 83404</dl>
 <dl>Phone: (208) 680-6488</dl>
 <dl>Fax: ‭(208) 202-2769</dl>
 
+# Dean Counseling Inc.
+< >1337 E 17th Street< >
+<dl>Idaho Falls ID 83404</dl>
+<dl>Phone: (208) 680-6488</dl>
+<dl>Fax: ‭(208) 202-2769</dl>
 
 #### (In Landmark Mental Health)
 
