@@ -8,7 +8,7 @@ Thank you for taking the time to Completing the intake paperwork. You can sumit 
 Idaho Falls ID 83404      
 Phone (208) 680-6488    
 Fax (208) 202-2769   
-**(In Landmark Mental Health)**
+**Located In Landmark Mental Health**
 
 ### Photos/Scans
 
@@ -24,7 +24,7 @@ Insurance Cards
 [ROI!](http://google.com) 
 >    
 
-### EAP Authorization Number
+### EAP
 
 > 
 Authorization number is needed when useing your employee assistance program.
