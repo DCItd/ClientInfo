@@ -1,13 +1,17 @@
-# Dean Counseling Inc.
-: 1337 E 17th Street
-: Idaho Falls ID 83404
-: Phone (208) 680-6488
-: Fax ‭(208) 202-2769
-### (In Landmark Mental Health)
+# Welcome
+Thank you for taking the time to Completing the intake paperwork. You can sumit the completed paper work online or bring to first session. I am looking forward to see you.
+### Dean Counseling Inc.
+<dl>1337 E 17th Street<dl>
+<dl>Idaho Falls ID 83404</dl>
+<dl>Phone (208) 680-6488</dl>
+<dl>Fax (208) 202-2769</dl>
+<dl>(In Landmark Mental Health)</dl>
 
-Photo
+
+Photo of:
 : Driver’s License 
 : Insurance Cards 
+
 - EAP authorization number
   - If useing employee assistance program
 
@@ -16,11 +20,7 @@ Photo
   * If you want information to be release.
 
 
-# Dean Counseling Inc.
-<dl>1337 E 17th Street<dl>
-<dl>Idaho Falls ID 83404</dl>
-<dl>Phone: (208) 680-6488</dl>
-<dl>Fax: ‭(208) 202-2769</dl>
+
 
 ￼
 
