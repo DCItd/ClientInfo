@@ -30,7 +30,7 @@ Fax (208) 202-2769
 
 **Located In Landmark Mental Health**
 <form method="post"
-    action="https://formbucket.com/f/buk_ELB6nWrb08lTFqO0BLIU3ZM0">
+    action="travisdeancounseling@gmail.com">
 <input type="email" name="email" placeholder="Your email" />
 <input type="text" name="message" placeholder="Your message" />
 <input type="submit"/>
