@@ -14,20 +14,6 @@ Insurance Cards
 >
 [Intake paperwork](http://google.com) 
 
-input[type="text"], input[type="email"], input[type="search"], 
-input[type="submit"], button, textarea { 
-  padding: 1em 1.5em; 
-  border: 1px solid #e5e5e5; 
-  border-radius: 300px; 
-  margin-bottom: 1em; 
-  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", 
-                "Roboto", "Oxygen", "Ubuntu", "Cantarell", 
-                "Fira Sans", "Droid Sans", "Helvetica Neue", 
-                Arial, sans-serif; 
-}
-
-textarea { width: 73%;  resize: none; }
-
 [ROI](http://google.com) 
 >    
 
@@ -47,6 +33,7 @@ Fax (208) 202-2769
 <form method="post"
     action="travisdeancounseling@gmail.com">
 <input type="email" name="email" placeholder="Your email" />
+<input type="text" name="fristName" placeholder="Frist name" />
 <input type="text" name="message" placeholder="Your message" />
 <input type="submit"/>
 <input type="reset" />
