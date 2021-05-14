@@ -45,6 +45,27 @@ The quick brown fox jumps over the lazy dog.
 </tr>
 </table>
 
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
+
+<td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td><td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td></tr> </table>
+
 <form>
   <div class="form-row">
     <div class="col-7">
