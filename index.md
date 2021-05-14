@@ -31,6 +31,20 @@ Fax (208) 202-2769
 **Located In Landmark Mental Health**
 
 [Link](url) and ![Image](src)
+<table>
+<tr>
+<td width=”33%””>
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width=”33%”>
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width=”33%”>
+The quick brown fox jumps over the lazy dog.
+</td>
+</tr>
+</table>
+
 <form>
   <div class="form-row">
     <div class="col-7">
