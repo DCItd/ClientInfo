@@ -67,15 +67,15 @@ The quick brown fox jumps over the lazy dog.
 </td></tr> </table>
 
 <form>
-  <div class="form-row">
-    <td class="col-7">
+  <tr class="form-row">
+    <td class="row-7">
       <input type="text" class="form-control" placeholder="City">
     </td>
-    <div class="col">
+    <td class="row">
       <input type="text" class="form-control" placeholder="State">
     </td>
-    <td class="col">
+    <td class="row">
       <input type="text" class="form-control" placeholder="Zip">
-    </div>
-  </div>
+    </td>
+  </tr>
 </form>
