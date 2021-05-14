@@ -58,10 +58,7 @@ The quick brown fox jumps over the lazy dog.
 |--|--|--|
 | 1 | 2 | 3 |
 
-</td>
-
-
-<td>
+</td><td>
 
 | A | B | C |
 |--|--|--|
@@ -71,13 +68,13 @@ The quick brown fox jumps over the lazy dog.
 
 <form>
   <div class="form-row">
-    <div class="col-7">
+    <td class="col-7">
       <input type="text" class="form-control" placeholder="City">
-    </div>
+    </td>
     <div class="col">
       <input type="text" class="form-control" placeholder="State">
-    </div>
-    <div class="col">
+    </td>
+    <td class="col">
       <input type="text" class="form-control" placeholder="Zip">
     </div>
   </div>
