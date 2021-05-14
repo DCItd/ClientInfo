@@ -1,5 +1,5 @@
 # Welcome
-[Label Text ??*](Name)
+
 Thank you for taking the time to Completing the paperwork.  *NOBODY* can go back and start a new **BEGINNING**, but *ANYONE* can start today and make a new **ENDING**.  I am looking forward to meeting you. Below are the things needed and directions to office.
 
 ### Photos/Scans
