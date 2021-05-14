@@ -29,53 +29,10 @@ Phone (208) 680-6488
 Fax (208) 202-2769   
 
 **Located In Landmark Mental Health**
-
-[Link](url) and ![Image](src)
-<table>
-<tr>
-<td width=”33%””>
-The quick brown fox jumps over the lazy dog.
-</td>
-<td width=”33%”>
-The quick brown fox jumps over the lazy dog.
-</td>
-<td width=”33%”>
-The quick brown fox jumps over the lazy dog.
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th>Heading 1</th>
-<th>Heading 2</th>
-</tr>
-<tr>
-
-<td>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td><td>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td></tr> </table>
-
-<form>
-  <tr class="form-row">
-    <td class="row-7">
-      <input type="text" class="form-control" placeholder="City">
-    </td>
-    <td class="row">
-      <input type="text" class="form-control" placeholder="State">
-    </td>
-    <td class="row">
-      <input type="text" class="form-control" placeholder="Zip">
-    </td>
-  </tr>
+<form method="post"
+    action="https://formbucket.com/f/buk_ELB6nWrb08lTFqO0BLIU3ZM0">
+<input type="email" name="email" placeholder="Your email" />
+<input type="text" name="message" placeholder="Your message" />
+<input type="submit"/>
+<input type="reset" />
 </form>
