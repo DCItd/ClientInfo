@@ -14,7 +14,7 @@ Insurance Cards
 >
 [Intake paperwork](http://google.com) 
 
-[**Intake Paperwork](./another-page.html).
+[**Intake Paperwork**](./another-page.html).
 
 [ROI](http://google.com) 
 >    
