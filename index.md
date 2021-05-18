@@ -15,7 +15,6 @@ I am looking forward to meeting you. Below are the things needed and directions 
 ## Forms
     
 > [Registration Information](https://dcitd.github.io/Registration/)
->
 >[ROI](https://dcitd.github.io/ROI/)
 
 
