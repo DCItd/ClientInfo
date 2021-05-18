@@ -13,9 +13,9 @@ Insurance Cards
     
 >
 
-[**Registration Information**](./dcitd.github.io/Registration.html) 
+[Registration Information](./dcitd.github.io/Registration.html) 
 
-[**ROI**](https://dcitd.github.io/ROI/)
+[ROI](https://dcitd.github.io/ROI.html)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
