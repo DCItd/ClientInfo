@@ -12,7 +12,7 @@ Insurance Cards
 ### Forms
     
 >
-[**Intake paperwork**](https://dcitd.github.io/Registration/) 
+[**Registration Information**](./dcitd.github.io/Registration/) 
 
 [**ROI**](https://dcitd.github.io/ROI/)
 >    
