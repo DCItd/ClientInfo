@@ -1,13 +1,16 @@
 # Welcome
 
-Thank you for taking the time to Completing the paperwork.  *NOBODY* can go back and start a new **BEGINNING**, but *ANYONE* can start today and make a new **ENDING**.  I am looking forward to meeting you. Below are the things needed and directions to office.
+Thank you for taking the time to Completing the paperwork.  
+
+> *NOBODY* can go back and start a new **BEGINNING**, but *ANYONE* can start today and make a new **ENDING**.  
+
+I am looking forward to meeting you. Below are the things needed and directions to office.
 
 ## Photos of:
 
-> 
-Driver’s License     
-Insurance Cards    
->    
+> Driver’s License     
+> Insurance Cards    
+   
  
 ## Forms
     
@@ -18,9 +21,8 @@ Insurance Cards
 
 ## EAP
 
-> 
-Authorization number is needed when useing your employee assistance program.
-> 
+> Authorization number is needed when useing your employee assistance program.
+
 
 ### Dean Counseling Inc.   
 1337 E 17th Street   
