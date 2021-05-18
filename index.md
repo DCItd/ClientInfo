@@ -2,25 +2,22 @@
 
 Thank you for taking the time to Completing the paperwork.  *NOBODY* can go back and start a new **BEGINNING**, but *ANYONE* can start today and make a new **ENDING**.  I am looking forward to meeting you. Below are the things needed and directions to office.
 
-### Photos/Scans
+## Photos/Scans
 
 > 
 Driver’s License     
 Insurance Cards    
 >    
  
-### Forms
+## Forms
     
-> [Registration Information](https://dcitd.github.io/Registration/) 
+> 
+[Registration Information](https://dcitd.github.io/Registration/) 
 
-> [ROI](https://dcitd.github.io/ROI/)
+[ROI](https://dcitd.github.io/ROI/)
+>
 
-< http://github.com - automatic!
-[GitHub](http://github.com)
-
-   
-
-### EAP
+## EAP
 
 > 
 Authorization number is needed when useing your employee assistance program.
