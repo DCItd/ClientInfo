@@ -12,6 +12,7 @@ Insurance Cards
 ### Forms
     
 >
+[Registration Information](https://dcitd.github.io/Registration.html) 
 
 [Registration Information](https://dcitd.github.io/Registration/) 
 
