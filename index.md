@@ -12,9 +12,11 @@ Insurance Cards
 ### Forms
     
 >
-[**Registration Information**](./dcitd.github.io/Registration/) 
+
+[**Registration Information**](./dcitd.github.io/Registration.html) 
 
 [**ROI**](https://dcitd.github.io/ROI/)
+
 >    
 
 ### EAP
