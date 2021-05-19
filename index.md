@@ -5,19 +5,19 @@
 
 Thank you for taking the time to Completing the paperwork.
  
-## 1. Forms
+## Forms
     
-> [Registration Information](https://dcitd.github.io/Registration/)<space><space>
+> [Registration Information](https://dcitd.github.io/Registration/)
 >  
 >[ROI](https://dcitd.github.io/ROI/)
 
-## 2. Photos of:
+## Photos of:
 
 > Driver’s License     
 > Insurance Cards    
    
 
-## 3. EAP
+## EAP
 
 > Authorization number is needed when useing your employee assistance program.
 
