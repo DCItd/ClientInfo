@@ -2,7 +2,7 @@
 
 > ❝*NOBODY* can go back and start a new **BEGINNING**, but         
 > *ANYONE* can start today and make a new **ENDING**.❞  
-                                  <<spce>> — Maria Robinson
+                                           Maria Robinson
 
 Thank you for taking the time to Completing the paperwork.
  
